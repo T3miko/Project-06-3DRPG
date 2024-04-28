@@ -1,7 +1,17 @@
-# Project-06
+# Project 06 - 3D RPG
 
-# Features added
+# Implementation
+You, the player, must choose: Chad Peng or Blonde Shrek. 
+Kiss, Mary, Kill hard version because the only choice is Mary or Kill. 
+Scoring is based on first choice.
 
-# References to resources used in the project
+# References
+Textures from: https://freepbr.com/
+Models and animations from: Mixamo.com
 
-# Created by
+# Future Development
+Fix bugs and create more detailed surroundings.
+
+# Created by 
+Aiko Ileleji
+
